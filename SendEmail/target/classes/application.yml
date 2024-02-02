@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: nisanthselva2004@gmail.com
+    password: bqad aeot omlo sqxa
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
